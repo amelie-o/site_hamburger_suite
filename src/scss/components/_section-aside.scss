@@ -1,0 +1,15 @@
+.sub-aside{
+  background-color: var(--color-bg-quaternary);
+  padding: 40px;
+
+  h3{
+    margin: 0;
+    text-transform: uppercase;
+    border-bottom: 2px solid var(--color-text-primary);
+  }
+
+  ul{
+    padding: 0;
+    list-style: none;
+  }
+}

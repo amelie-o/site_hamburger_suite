@@ -5,3 +5,12 @@
   height: 100%;
   object-fit: cover;
 }
+
+.sub-image{
+  img{
+    border: 15px solid var(--color-text-primary);
+    display: block;
+    height: 100%;
+    object-fit: cover;
+  }
+}
